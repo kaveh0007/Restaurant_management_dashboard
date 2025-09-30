@@ -1,0 +1,41 @@
+{
+  "categories": ["Beverages", "Main Course", "Desserts", "Snacks"],
+  "foodItems": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "category": "Main Course",
+      "price": 12,
+      "isPopular": true,
+      "image": "pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "category": "Snacks",
+      "price": 8,
+      "isPopular": true,
+      "image": "burger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "category": "Desserts",
+      "price": 5,
+      "isPopular": false,
+      "image": "icecream.jpg"
+    }
+  ],
+  "reviews": [
+    { "id": 1, 
+    "customer": "Kishlaya Verma", 
+    "comment": "Fulfilling!", 
+    "rating": 5 },
+    {
+      "id": 2,
+      "customer": "Meghna Mankotia",
+      "comment": "Loved the swift service.",
+      "rating": 4
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Wings",
+    "category": "Starter",
+    "price": 5,
+    "isPopular": false,
+    "image": "Chicken_Wings.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Biryani",
+    "category": "Main Course",
+    "price": 12,
+    "isPopular": true,
+    "image": "Biryani.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Savings Bucket",
+    "category": "Deal",
+    "price": 18,
+    "isPopular": true,
+    "image": "Saver_Bucket.jpg"
+  },
+  {
+    "id": 1759220018848,
+    "name": "Cola",
+    "category": "Beverages",
+    "price": 2,
+    "isPopular": true,
+    "image": "1759220018846.jpeg"
+  }
+]
